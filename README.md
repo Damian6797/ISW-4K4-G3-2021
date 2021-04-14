@@ -7,11 +7,11 @@ Repositorio con finalidad de usarlo para la materia ISW, Grupo N°3
 ISW/
 
 1. Reglamentación
-	- MOD-ACAD-ISW-2020.pdf
+	- MOD-ACAD-ISW-2021.pdf
 	- Bibliografía
-		- B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
-		- B-Little Book of Configuration Management-2020.pdf
-		- B-Techniques for estimating-2020.pdf
+		- B-Kanban y Scrum Obteniendo lo mejor de ambos-2021.pdf
+		- B-Little Book of Configuration Management-2021.pdf
+		- B-Techniques for estimating-2021.pdf
 2. Material Teórico
       - Filminas
       	- F-01- Ingenieria de Software 2C.pdf
@@ -36,9 +36,9 @@ ISW/
 			- TPNE-10-Métodos de caja blanca.xlsx
 			- TPNE-11-Métodos de Caja Negra.pdf
 	- Guías
-		- G-Enunciados TP evaluables-2020-2C.pdf
-		- G-Trabajos Practicos Resueltos-2020-2C.pdf
-	- LP-4K2-2020-2C.txt
+		- G-Enunciados TP evaluables-2021-2C.pdf
+		- G-Trabajos Practicos Resueltos-2021-2C.pdf
+	- LP-4K4-2021-2C.txt
 	- | Links de Clases Grabadas Teóricas | LT-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Teórico |
 | Plan de SCM | README.md | / |
 | Líneas Base | LB-\<nro\>-\<nombreLB\>
