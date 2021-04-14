@@ -2,7 +2,7 @@
 Trabajo practico N° 4
 Plan de SCM
 Estructura del Repositorio
-Repositorio con finalidad de usarlo para la materia ISW, Grupo N°7
+Repositorio con finalidad de usarlo para la materia ISW, Grupo N°3
 
 ISW/
 
